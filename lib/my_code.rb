@@ -39,6 +39,9 @@ def reduce_to_any_true(array)
     else
       return true
     end
+<<<<<<< HEAD
     i++
+=======
+>>>>>>> b9a6ad11b788e8444f2f0229f278c9f000b9cab2
   end
 end 
